@@ -1,9 +1,19 @@
 /* add CSS class and element and selectors here */
+/*notes */
+@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
 
-.iloveyou {
-  font-size: 500%;
-  font-family: courier;
-  background-color: coral;
-}
+body {
+      background-color: light-blue;
+    }
+    
+#title-section {font-size:100%;}
 
-div {border: double;}
+
+.info-section {font-family: Gaegu;}
+
+    .myClass {
+      background-color: gray;
+      color: blue;
+      font-family: Shrikhand;}
+  
